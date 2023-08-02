@@ -11,6 +11,7 @@ Training project of HTML&CSS layout
 
 ## Improvment plans
 * Edit layout
+* Add adaptive layout
 * Animation
 * Features
 * Form of sign in

@@ -1,0 +1,8 @@
+.arrow {
+  display: block;
+  width: 27px;
+  height: 53px;
+  background-image: url(../../images/left-arrow.svg);
+  background-position: top left;
+  grid-area: left;
+}

@@ -1,0 +1,6 @@
+.marketing__article {
+    grid-area: article;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+}

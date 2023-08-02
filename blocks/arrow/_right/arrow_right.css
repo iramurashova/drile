@@ -1,0 +1,4 @@
+.arrow_right {
+    background-image: url(../../../images/right-arrow.svg);
+    grid-area: right;
+}

@@ -1,0 +1,8 @@
+.footer__menu-paragraphs {
+    display: flex;
+    list-style: none;
+    padding: 0 0 120px;
+    margin: 0;
+    justify-content: space-between;
+    gap: 146px;
+}

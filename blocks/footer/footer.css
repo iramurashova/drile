@@ -1,0 +1,45 @@
+.footer {
+  position: relative;
+  width: 100%;
+  min-height: 495px;
+  padding: 61px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../images/footer.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+
+.footer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.72);
+}
+
+.footer::after {
+  content: "© Copyright 2022 | drile | All right reserved.";
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 52px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  color: #7a7a7a;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}

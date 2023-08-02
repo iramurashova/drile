@@ -1,0 +1,10 @@
+.intro__article {
+    padding-left: 54px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    max-width: 439px;
+
+   align-self: flex-start;
+}

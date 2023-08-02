@@ -1,0 +1,15 @@
+.card__price {
+  grid-area: price;
+  padding: 8px 0 25px;
+  margin: 0;
+  justify-self: center;
+  align-self: start;
+  color: #8c8c8c;
+  text-align: center;
+  font-family: "Federo", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0.28px;
+}

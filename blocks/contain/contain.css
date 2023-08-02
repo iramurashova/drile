@@ -1,0 +1,7 @@
+.contain {
+    display: flex;
+    flex-direction: column;
+    padding: 71px 0 142px;
+    gap: 84px;
+    margin: 0 auto;
+}

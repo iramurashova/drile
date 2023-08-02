@@ -1,0 +1,22 @@
+.button {
+  width: 122px;
+  height: 38px;
+  background-color: #434343;
+  box-shadow: none;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.56px;
+  text-align: center;
+  text-transform: uppercase;
+  border: none;
+  transition: background-color 20ms ease-in-out;
+  z-index: 2;
+}
+
+.button:hover {
+  background-color: darkslategrey;
+}

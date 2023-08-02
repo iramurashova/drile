@@ -1,0 +1,7 @@
+.bestsellers {
+    display: flex;
+    flex-direction: column;
+    gap: 41px;
+    align-items: center;
+    padding-bottom: 64px;
+}

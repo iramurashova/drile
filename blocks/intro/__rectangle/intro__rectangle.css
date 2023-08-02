@@ -1,0 +1,9 @@
+.intro__rectangle {
+    width: 895px;
+    height: 497px;
+    position: absolute;
+    top: 268px;
+    right: 0;
+    background-color: #F6F6F6;
+    z-index: -1;
+}

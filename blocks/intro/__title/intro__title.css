@@ -1,0 +1,11 @@
+.intro__title {
+    margin: 0;
+    max-width: 385px;
+    color: #3A3A3A;
+font-family: "Federo", sans-serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 60px; /* 120% */
+letter-spacing: 1px;
+}

@@ -1,0 +1,9 @@
+.marketing__item {
+  width: 87px;
+  height: 87px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0.1px solid #000;
+background: #FFF;
+}

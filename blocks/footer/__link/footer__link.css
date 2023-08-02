@@ -1,0 +1,14 @@
+.footer__link {
+  color: #8a8a8a;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.7px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 11.5px;
+
+}

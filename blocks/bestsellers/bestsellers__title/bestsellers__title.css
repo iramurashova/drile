@@ -1,0 +1,10 @@
+.bestsellers__title {
+    margin: 0;
+    color: #3A3A3A;
+font-family: "Federo", sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px; /* 125% */
+letter-spacing: 0.8px;
+}

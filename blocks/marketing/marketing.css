@@ -1,0 +1,15 @@
+.marketing {
+  align-self: flex-end;
+  width: calc(100% - 165px);
+  height: 594px;
+  display: grid;
+  align-items: center;
+  border-radius: 377px 0px 0px 377px;
+  background: #f6f6f6;
+  display: grid;
+  grid-template-columns: 570px 1fr;
+  grid-template-areas:
+    "image article";
+    
+  gap: 0 104px;
+}

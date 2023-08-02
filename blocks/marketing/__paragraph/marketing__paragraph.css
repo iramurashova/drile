@@ -1,0 +1,11 @@
+.marketing__paragraph {
+    margin: 0;
+    padding: 2px 0;
+  max-width: 401px;
+  color: #727272;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 26px; /* 162.5% */
+}

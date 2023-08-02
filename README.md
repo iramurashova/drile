@@ -1,6 +1,6 @@
 # Drile store 
 Training project of HTML&CSS layout
-## Consolidation of the knowledge**
+## Consolidation of the knowledge
 1. BEM Methology (by Yandex)
 2. Flex
 3. Grid

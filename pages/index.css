@@ -11,14 +11,13 @@
 @import url(../blocks/contain/contain.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__article/intro__article.css);
+@import url(../blocks/intro/__image/intro__image.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__rectangle/intro__rectangle.css);
 @import url(../blocks/heading/heading.css);
 @import url(../blocks/button/button.css);
 @import url(../blocks/arrow/arrow.css);
 @import url(../blocks/arrow/_right/arrow_right.css);
-@import url(../blocks/intro/__button/intro__button.css);
-@import url(../blocks/intro/__image/intro__image.css);
-@import url(../blocks/intro/__title/intro__title.css);
-@import url(../blocks/intro/__rectangle/intro__rectangle.css);
 @import url(../blocks/bestsellers/bestsellers.css);
 @import url(../blocks/bestsellers/bestsellers__title/bestsellers__title.css);
 @import url(../blocks/cards/cards.css);
